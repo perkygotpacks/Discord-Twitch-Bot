@@ -11,7 +11,7 @@ from discord.ext import commands
 with open('config.json') as f:
     cfg = json.load(f)
 
-token = cfg['bot_token']
+token = cfg"OTk1MDQ5OTgyODg3NDYwOTA3.GIHGX5.7VoXUxHfbT_kVKynKRsl8sUJbiqeEgVVy4VWt8"
 prefix = cfg['prefix']
 color = 0xfb00ff
 bot_channel1 = cfg['bot_channel1']
